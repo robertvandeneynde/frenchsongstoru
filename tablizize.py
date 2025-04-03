@@ -48,3 +48,4 @@ with open(args.file + '.html', 'w', encoding='utf-8') as o:
 	for a,b in zip(fr, tr, strict=True):
 		o.write(f'<tr><td>{a}</td><td>{b}</td></tr>\n')
 	o.write('</table>')
+	print(args.file + '.html')
