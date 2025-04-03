@@ -14,7 +14,7 @@ Surtout quand elles sont en boutons
 [сюрту ка̃ эл со̃ а̃ буто̃]
 
 Mais je vous ai apporté des bonbons
-[мэ жё ву е апорте дэ бо̃бо̃]
+[мэ жё ву з_е апорте дэ бо̃бо̃]
 
 --
 
@@ -34,7 +34,7 @@ Quel beau dimanche pour la saison
 [кел бо дима̃ш пур ла сэзо̃]
 
 Je vous ai apporté des bonbons
-[жё ву е апорте дэ бо̃бо̃]
+[жё ву з_е апорте дэ бо̃бо̃]
 
 --
 
@@ -54,7 +54,7 @@ Le monde est plein de polissons
 [лё мо̃д э плэ̃ дё полисо̃]
 
 Je vous ai apporté des bonbons
-[же ву ё апорте дэ бо̃бо̃]
+[же ву з_е апорте дэ бо̃бо̃]
 
 --
 
@@ -74,7 +74,7 @@ C'est vrai que Germaine elle est cruelle
 [са ву аве мил фуа рэзо̃]
 
 Je vous ai apporté des bonbons
-[жё ву ё апорте дэ бо̃бо̃]
+[жё ву з_е апорте дэ бо̃бо̃]
 
 --
 
