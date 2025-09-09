@@ -1,4 +1,17 @@
 # coding: utf-8
+"""
+// From:
+Hello
+How is life ?
+
+// To:
+Hello
+[]
+
+How is Life ?
+[]
+"""
+
 from glob import glob
 import re
 from pathlib import Path as path

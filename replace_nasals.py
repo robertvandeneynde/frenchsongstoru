@@ -1,3 +1,13 @@
+"""
+// From:
+Le jeudi je mange
+[лё жё-ди жё ма~ж]
+
+// To:
+Le jeudi je mange
+[лё же̄ди жё ма̃ж]
+"""
+
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument('file')

@@ -1,3 +1,18 @@
+"""
+// From:
+A
+[B]
+
+C
+[D]
+
+// To: (html)
+<table>
+<tr><td>A</td><td>[B]</td></tr>
+<tr><td>C</td><td>[D]</td></tr>
+</table>
+"""
+
 import argparse
 
 p = argparse.ArgumentParser()
